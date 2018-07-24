@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_camera_alt_black_24dp"
+        android:id="@+id/item_home_kanon"
+        android:title="@string/str_btn_camera" />
+    <item
+        android:icon="@drawable/ic_bookmark_black_24dp"
+        android:id="@+id/item_home_festival"
+        android:title="@string/str_btn_bookmark" />
+    <item
+        android:icon="@drawable/ic_email_black_24dp"
+        android:id="@+id/item_home_setting"
+        android:title="@string/str_btn_email" />
+</menu>
